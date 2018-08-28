@@ -24,3 +24,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSeRPh9FRGOJDOhzcC8Tc-IqiscUkt8dUea8Rmde
 
 500 PBK = 30$
 
+TOKEN INFORMATION
+Total number of tokens 500 million
+Token for ICO 202 million
+Token for Lucky 2 million
+Token per each phase of ICO 50 million
+Decimal 7
+Platform ERC 20
+
+
+
+
+
