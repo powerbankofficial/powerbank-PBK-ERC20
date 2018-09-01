@@ -22,17 +22,22 @@ airdrop
 
 https://docs.google.com/forms/d/e/1FAIpQLSeRPh9FRGOJDOhzcC8Tc-IqiscUkt8dUea8RmdeT89Lfc6bUg/viewform
 
-500 PBK = 30$
-
-TOKEN INFORMATION
+500 PBK = 30$TOKEN INFORMATION
 Total number of tokens 500 million
-Token for ICO 202 million
-Token for Lucky 2 million
-Token per each phase of ICO 50 million
+Total number of tokens for ico 400 million
+Token for Lucky 100 million
+Token per phase 1 & 2 100 million each
+Token per phase 3 & 4 50M each
 Decimal 7
 Platform ERC 20
+Smart contract:0x077DC3c0c9543df1cdD78386DF3204E69E0DD274
 
+Telegram = t.me/powerbankofficial
 
-
-
-
+Cost of token in each phase
+1ETH = 50000PBK (1PBK =0.0002ETH)
+(​lucky ico for 1st 100 person only (1ETH for 1M PBK​)
+1st phase = 0.0002/PBK/with 40℅ bonus
+2nd phase= 0.0002/PBK/ with 20% bonus
+3rd phase = 0.0002/PBK/ with 10℅ bonus
+4th please= 0.0002/PBK/with 2% bonus
