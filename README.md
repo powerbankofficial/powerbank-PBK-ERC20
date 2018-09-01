@@ -35,9 +35,22 @@ Smart contract:0x077DC3c0c9543df1cdD78386DF3204E69E0DD274
 Telegram = t.me/powerbankofficial
 
 Cost of token in each phase
-1ETH = 50000PBK (1PBK =0.0002ETH)
+1ETH = 50000PBK (1PBK =0.00002ETH)
 (​lucky ico for 1st 100 person only (1ETH for 1M PBK​)
-1st phase = 0.0002/PBK/with 40℅ bonus
-2nd phase= 0.0002/PBK/ with 20% bonus
-3rd phase = 0.0002/PBK/ with 10℅ bonus
-4th please= 0.0002/PBK/with 2% bonus
+1st phase = 0.00002/PBK/with 40℅ bonus
+2nd phase= 0.00002/PBK/ with 20% bonus
+3rd phase = 0.00002/PBK/ with 10℅ bonus
+4th please= 0.00002/PBK/with 2% bonus
+
+min contribution
+
+0.5ETH
+
+Max contribution
+
+100ETH
+
+
+SOFTCAP:1000
+
+HARDCAP:10000
