@@ -1,4 +1,7 @@
-# powerbank-PBK-ERC20
+          INTRODUCTION
+
+      # powerbank-PBK-ERC20
+
 Powerbank is an erc20 platform based coin for Mobile phone bill payment&amp;recharging world
 smartcontract:0x077DC3c0c9543df1cdD78386DF3204E69E0DD274
 symbol: PBK
@@ -54,3 +57,52 @@ Max contribution
 SOFTCAP:1000
 
 HARDCAP:10000
+
+How to join ico
+POWERBANK (PBK):
+Token tracker:https://etherscan.io/token/0x077dc3c0c9543df1cdd78386df3204e69e0dd274
+
+☑POWERBANK (PBK)
+🌐 www.powerbankcoin.com
+🌐Telegram t.me/powerbankofficial
+🌐Twitter @coinpowerbank
+
+🔥→LUCKY ICO← for 1st 100buyers (100M PBK only)
+→Min Send 1 ETH
+→1 ETH = 1 Milion PBK
+(for 1st 100 buyer)
+
+🔥→CROWD SALE + SELF DROP←
+Buy Token..!!
+50 Milion PBK only..!
+
+How To Buy PBK?
+Send ETH to the address below↓
+
+0x6998519eee09e41F11811240a9c3EaD7983D9D4a
+
+Recomended Gas limit 150,000
+Gas Gwei 5–10
+
+→0.01 ETH = 300 PBK+10%bonus
+→0.05 ETH = 1500 PBK+20% bonus
+→0.5 ETH   = 15,000 PBK+30% bonus
+→1 ETH      = 30,000 PBK+50% bonus
+
+NOTE: minimum send 0,01 ETH and Maximum 2 ETH.
+
+PLAN LIST ON EXCHANGE
+▪Coinex         →VOTE get PBK
+▪Mercatox    →VOTE get PBK
+▪Hotbit
+▪ECEX
+▪Crex24
+
+
+Already listed on coinchangex
+
+https://www.coinchangex.com/#!/trade/PBK-ETH
+
+Airdrop running on coinchangex
+http://bit.ly/pbk-coinchangex
+
