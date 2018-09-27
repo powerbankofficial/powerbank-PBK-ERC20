@@ -27,7 +27,6 @@ Decimal 7
 Platform ERC 20
 Smart contract:0x077DC3c0c9543df1cdD78386DF3204E69E0DD274
 
-Telegram = t.me/powerbankofficial
 
 
 
@@ -41,15 +40,6 @@ Telegram = t.me/powerbankofficial
 
 
 
-
- to join ico
-POWERBANK (PBK):
-Token tracker:https://etherscan.io/token/0x077dc3c0c9543df1cdd78386df3204e69e0dd274
-
-☑POWERBANK (PBK)
-🌐 www.powerbankcoin.com
-🌐Telegram t.me/powerbankofficial
-🌐Twitter @coinpowerbank
 
 
 
