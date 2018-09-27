@@ -47,18 +47,6 @@ Smart contract:0x077DC3c0c9543df1cdD78386DF3204E69E0DD274
 
 
 
-PLAN LIST ON EXCHANGE
-▪Coinex         →VOTE get PBK
-▪Mercatox    →VOTE get PBK
-▪Hotbit
-▪ECEX
-▪Crex24
 
 
-Already listed on coinchangex
-
-https://www.coinchangex.com/#!/trade/PBK-ETH
-
-Airdrop running on coinchangex
-http://bit.ly/pbk-coinchangex
 
